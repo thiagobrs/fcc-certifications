@@ -1,10 +1,10 @@
-# Free Code Camp Certification Projects
+# fcc-certifications
 Repository with the projects I submited to get the Python Certifications from Free Code Camp.
 
 There are 15 projects from 3 certification programs, as listed bellow:
 
 Certification 1: Scientific Computing with Python
-- Project 1: Arithmetic Formatter
+- Project 1: Arithmetic Formatter (Concluded)
 - Project 2: Time Calculator
 - Project 3: Budget App
 - Project 4: Polygon Area Calculator
