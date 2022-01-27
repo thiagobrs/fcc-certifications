@@ -24,4 +24,4 @@ Certification 3: Machine Learning with Python
 - Project 4: Linear Regression Health Costs Calculator
 - Project 5: Neural Network SMS Text Classifier
 
-\* **Important:** This repository is available only for study purposes and to demonstrate my abilities in Python and programming to recruiters, do not use it to get your own certificates, be aware of the Academic Honesty policy of Free Code Camp, they will audit your code. Most of all, be honest with yourself, the institution and other students.
+**\* Important:** This repository is available only for study purposes and to demonstrate my abilities in Python and programming to recruiters, do not use it to get your own certificates, be aware of the Academic Honesty policy of Free Code Camp, they will audit your code. Most of all, be honest with yourself, the institution and other students.
